@@ -49,7 +49,7 @@ The darkroom is considered successful if it meets the following criteria:
 
 1. *Space:* A minimum of two students can stand, move, and work comfortably inside the darkroom.
 2. *Structural Integrity:* The exoskeleton is rigid and withstands minor external forces or accidental bumps.
-3. *Light Tightness:* The room passes a light-tightness study (see section 3g for the testing procedure).
+3. *Light Tightness:* The room passes a light-tightness study (see section 3.7 for the testing procedure).
 4. *Accessible Entry:* The entrance is easy to operate and includes an effective seal to prevent light leaks.
 
 ---
