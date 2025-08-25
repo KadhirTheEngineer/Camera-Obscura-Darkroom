@@ -83,7 +83,7 @@ The darkroom is considered successful if it meets the following criteria:
 1. Attach the pipes and connectors as shown in the provided diagram. Ensure the structure encloses a desk or workstation.
 2. Place the assembled structure in the designated location for the darkroom.
 
-[Front of the darkroom showing the door seal and clamps](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+![Front of the darkroom showing the door seal and clamps](https://drive.google.com/file/d/1gt68qkyOIfNbrp6dh1-Qrh5Yi3pJwaEF/view?usp=sharing)
 
 ### 3.4 Draping Fabric
 1. Drape the darkroom fabric over the structure, allowing for some overlap.
