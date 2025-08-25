@@ -72,7 +72,7 @@ The darkroom is considered successful if it meets the following criteria:
    - *2 pieces:* 60 inches
    - *3 pieces:* 12 inches
 
-![Various lengths of PVC pipes at Home Depot](pictures/1.heic)
+![Various lengths of PVC pipes at Home Depot]((https://drive.google.com/file/d/1pPSpVKp6siDotFspNlxnj1uAezzyEyC1/view?usp=drive_link))
 
 2. Use a cutting station at the store or workshop to ensure accurate cuts. Verify lengths before proceeding.
 
