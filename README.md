@@ -72,18 +72,18 @@ The darkroom is considered successful if it meets the following criteria:
    - *2 pieces:* 60 inches
    - *3 pieces:* 12 inches
 
-[Various lengths of PVC pipes at Home Depot](https://drive.google.com/file/d/1pPSpVKp6siDotFspNlxnj1uAezzyEyC1/view?usp=drive_link)
+![Various lengths of PVC pipes at Home Depot](https://drive.google.com/file/d/1pPSpVKp6siDotFspNlxnj1uAezzyEyC1/view?usp=drive_link)
 
 2. Use a cutting station at the store or workshop to ensure accurate cuts. Verify lengths before proceeding.
 
-![Pipe/wood cutting station at Home Depot](pictures/2.heic)
-![Test assembly at Home Depot](pictures/3.heic)
+[Pipe/wood cutting station at Home Depot](https://drive.google.com/file/d/18Qw73OByb8nHqmlm-mUT-_qb6hnO6QuJ/view?usp=drive_link)
+[Test assembly at Home Depot](https://drive.google.com/file/d/1N7f9bqQXfrmVeBKStmwa_Kka7aIaMwkQ/view?usp=drive_link)
 
 ### 3.3 Assembly
 1. Attach the pipes and connectors as shown in the provided diagram. Ensure the structure encloses a desk or workstation.
 2. Place the assembled structure in the designated location for the darkroom.
 
-![Front of the darkroom showing the door seal and clamps](pictures/4.heic)
+![Front of the darkroom showing the door seal and clamps]()
 
 ### 3.4 Draping Fabric
 1. Drape the darkroom fabric over the structure, allowing for some overlap.
