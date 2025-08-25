@@ -72,7 +72,7 @@ The darkroom is considered successful if it meets the following criteria:
    - *2 pieces:* 60 inches
    - *3 pieces:* 12 inches
 
-![Various lengths of PVC pipes at Home Depot](https://drive.google.com/file/d/1pPSpVKp6siDotFspNlxnj1uAezzyEyC1/view?usp=drive_link)
+[Various lengths of PVC pipes at Home Depot](https://drive.google.com/file/d/1pPSpVKp6siDotFspNlxnj1uAezzyEyC1/view?usp=drive_link)
 
 2. Use a cutting station at the store or workshop to ensure accurate cuts. Verify lengths before proceeding.
 
@@ -83,40 +83,39 @@ The darkroom is considered successful if it meets the following criteria:
 1. Attach the pipes and connectors as shown in the provided diagram. Ensure the structure encloses a desk or workstation.
 2. Place the assembled structure in the designated location for the darkroom.
 
-![Front of the darkroom showing the door seal and clamps]()
+[Front of the darkroom showing the door seal and clamps](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 ### 3.4 Draping Fabric
 1. Drape the darkroom fabric over the structure, allowing for some overlap.
 2. Secure the fabric using large clamps for structural attachment and small clamps for fabric-to-fabric connections.
 3. Ensure the fabric fully covers the top, sides, front, and back. Tape any hanging ends to the floor using masking tape.
 
-![Left front bottom corner of the darkroom](pictures/10.heic)
-![Left back bottom corner of the darkroom](pictures/11.heic)
+[Left front bottom corner of the darkroom](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[Left back bottom corner of the darkroom](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 4. Create a door by overlapping two fabric edges. Drape an additional piece of fabric over the door for a double seal.
 
-![Outside of the darkroom showing door](pictures/25.heic)
+[Outside of the darkroom showing door](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 ### 3.5 Installing Zippers
 1. Attach zippers to the outer and inner door seals to facilitate entry and exit. Ensure zippers operate smoothly.
 
-![Inner door seal and zipper](pictures/5.heic)
-![Outer and inner door picture](pictures/38.heic)
+[Inner door seal and zipper](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[Outer and inner door picture](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 ### 3.6 Sealing Light Leaks
 1. Enter the darkroom and allow your eyes to adjust.
 2. Inspect for light leaks and use masking tape to seal them, especially around corners and seams.
 3. Focus on potential trouble spots such as the bottom edges and door seals.
 
-![Bottom right back corner of room](pictures/20.heic)
-![Middle front edge of room](pictures/22.heic)
+[Bottom right back corner of room](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 ### 3.7 Light Leak Study
 1. Place small pieces of film paper in all corners of the darkroom and leave them for 15 minutes.
 2. Develop the film. If any piece is exposed (dark), it indicates a light leak in that area.
 3. Seal the leak and repeat the study until all film pieces remain unexposed (completely white).
 
-![The darkroom study](pictures/6.heic)
+[The darkroom study](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
 
 ---
 
