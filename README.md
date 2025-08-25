@@ -83,39 +83,37 @@ The darkroom is considered successful if it meets the following criteria:
 1. Attach the pipes and connectors as shown in the provided diagram. Ensure the structure encloses a desk or workstation.
 2. Place the assembled structure in the designated location for the darkroom.
 
-![Front of the darkroom showing the door seal and clamps](https://drive.google.com/file/d/1gt68qkyOIfNbrp6dh1-Qrh5Yi3pJwaEF/view?usp=sharing)
+[Front of the darkroom showing the door seal and clamps](https://drive.google.com/file/d/1gt68qkyOIfNbrp6dh1-Qrh5Yi3pJwaEF/view?usp=sharing)
 
 ### 3.4 Draping Fabric
 1. Drape the darkroom fabric over the structure, allowing for some overlap.
 2. Secure the fabric using large clamps for structural attachment and small clamps for fabric-to-fabric connections.
 3. Ensure the fabric fully covers the top, sides, front, and back. Tape any hanging ends to the floor using masking tape.
 
-[Left front bottom corner of the darkroom](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
-[Left back bottom corner of the darkroom](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[Left front bottom corner of the darkroom](https://drive.google.com/file/d/1tzTf3gds-yUQNf1-LoytTtsfF0O0t34h/view?usp=sharing)
+[Left back bottom corner of the darkroom](https://drive.google.com/file/d/1CjgdzHtLQuY3JJH0zjPVnSEYJGNVwMmq/view?usp=sharing)
 
 4. Create a door by overlapping two fabric edges. Drape an additional piece of fabric over the door for a double seal.
 
-[Outside of the darkroom showing door](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[Outside of the darkroom showing door](https://drive.google.com/file/d/18QIoboas-Q2aNaYzbJZbfryZ7dTFMEqa/view?usp=sharing)
 
 ### 3.5 Installing Zippers
 1. Attach zippers to the outer and inner door seals to facilitate entry and exit. Ensure zippers operate smoothly.
 
-[Inner door seal and zipper](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
-[Outer and inner door picture](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[Inner door seal and zipper](https://drive.google.com/file/d/1dwbUqQgVnXuScOUO_TcHJnG7FlE1bFEn/view?usp=sharing)
+[Outer and inner door picture](https://drive.google.com/file/d/18QIoboas-Q2aNaYzbJZbfryZ7dTFMEqa/view?usp=sharing)
 
 ### 3.6 Sealing Light Leaks
 1. Enter the darkroom and allow your eyes to adjust.
 2. Inspect for light leaks and use masking tape to seal them, especially around corners and seams.
 3. Focus on potential trouble spots such as the bottom edges and door seals.
 
-[Bottom right back corner of room](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
-
 ### 3.7 Light Leak Study
 1. Place small pieces of film paper in all corners of the darkroom and leave them for 15 minutes.
 2. Develop the film. If any piece is exposed (dark), it indicates a light leak in that area.
 3. Seal the leak and repeat the study until all film pieces remain unexposed (completely white).
 
-[The darkroom study](https://drive.google.com/drive/u/1/folders/1qmEC241CpPwSaNhd-iIPpxVHDTfdu90p)
+[The darkroom study](https://drive.google.com/file/d/1Gq9NbAGCwuF5E17_4gCxtZS2f8wOv65V/view?usp=sharing)
 
 ---
 
